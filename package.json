@@ -1,5 +1,5 @@
 {
-  "name": "goose-webserver",
+  "name": "my-webserver",
   "version": "0.0.1",
   "description": "A webserver that takes a port number as an argument",
   "main": "server.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://Gustavo400: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@github.com/comp426-2022-spring/a01-Gustavo400.git"
+    "url": "git+https://github.com/comp426-2022-spring/a01-Gustavo400.git"
   },
   "author": "Gustavo Rios",
   "license": "GPL-3.0-or-later",
